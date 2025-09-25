@@ -39,38 +39,4 @@ In short, I’m on a mission to build smarter AI, more secure blockchain systems
 
 ---
 
-### 🎯 Fun Facts About Me:
-- 🔥 I enjoy building **AI-powered apps**, **Rust-based web frameworks**, and **C# web applications** using ASP.NET and WebForms.
-- 🌱 I’m currently exploring **Tauri**, **Yew**, and **Machine Learning** frameworks like TensorFlow and PyTorch.
-- 💡 I love contributing to open-source projects and collaborating with developers worldwide.
-
----
-
-### 🏆 Featured Projects
-#### 🚀 [Rocket Backend API](https://github.com/your-username/rocket-backend-api)
-- Built with **Rust** and **Rocket** framework.
-- A blazing-fast REST API for managing data with **PostgreSQL** integration.
-
-#### 🌐 [Yew Frontend Dashboard](https://github.com/your-username/yew-frontend-dashboard)
-- Developed using **Yew** (Rust-based frontend framework).
-- A single-page application (SPA) with modern UI and state management.
-
-#### 🖥️ [Tauri Desktop App](https://github.com/your-username/tauri-desktop-app)
-- A lightweight desktop application built with **Rust** using **Tauri**.
-- Combines web technologies (**React** + **TypeScript**) with native performance.
-
-#### 🌐 [ASP.NET Core Web API](https://github.com/your-username/aspnet-core-web-api)
-- Developed using **ASP.NET Core** and **C#**.
-- A scalable API for enterprise-level applications with **SQL Server** backend.
-
-#### 🌐 [WebForms Online Store](https://github.com/your-username/webforms-online-store)
-- Built with **ASP.NET WebForms** and **C#**.
-- An e-commerce website with dynamic product management and secure payment integration.
-
-#### 🌐 [Blockchain Explorer](https://github.com/your-username/blockchain-explorer)
-- Developed using **Solidity**, **React**, and **Web3.js**.
-- A tool to explore blockchain transactions and smart contracts.
-
----
-
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects. ✨
