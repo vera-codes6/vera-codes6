@@ -2,15 +2,23 @@
 
 ## 🌟 About Me
 
-I'm an AI Engineer Extraordinaire 🤖 who spends most of my time teaching machines to think smarter, faster, and sometimes even creatively (but don’t worry, I keep them far from Skynet-level intelligence 🛡️). From building state-of-the-art models with TensorFlow and PyTorch to optimizing algorithms for real-world applications, I thrive on crafting AI solutions that push boundaries.
+I'm an **AI Engineer Extraordinaire** 🤖 who spends most of my time teaching machines to think smarter, faster, and sometimes even creatively (but don’t worry, I keep them far from Skynet-level intelligence 🛡️). From building state-of-the-art models with **TensorFlow** and **PyTorch** to optimizing algorithms for real-world applications, I thrive on crafting AI solutions that push boundaries.
 
-When I’m not wrangling neural networks, I dive deep into the blockchain universe 🌌—designing decentralized systems, exploring Polkadot parachains, and contributing to groundbreaking projects like Bittensor. Whether it’s smart contracts or decentralized AI networks, I’m all about leveraging blockchain for innovation.
+When I’m not wrangling neural networks, I dive deep into the **blockchain universe** 🌌—designing decentralized systems, exploring **Polkadot parachains**, and contributing to groundbreaking projects like **Bittensor**. Whether it’s smart contracts or decentralized AI networks, I’m all about leveraging blockchain for innovation.
 
-As a Full Stack Developer, I’m equally comfortable building sleek frontends with React or Yew, architecting robust backends with FastAPI, Flask, or Rocket, and even creating cross-platform desktop apps with Tauri. My work is all about blending creativity and functionality to deliver seamless user experiences.
+As a **Full Stack Developer**, I’m equally comfortable building sleek frontends with **React** or **Yew**, architecting robust backends with **FastAPI**, **Flask**, or **Rocket**, and even creating cross-platform desktop apps with **Tauri**. My work is all about blending creativity and functionality to deliver seamless user experiences.
 
-Oh, and did I mention I’m a C++ Optimization Guru? 🏎️ I specialize in squeezing every last ounce of performance out of C++ code, whether it’s for high-performance computing, game engines, or memory-critical applications. If there’s a bottleneck, I’ll crush it faster than you can say "segmentation fault."
+Oh, and did I mention I’m a **C++ Optimization Guru**? 🏎️ I specialize in squeezing every last ounce of performance out of **C++ code**, whether it’s for high-performance computing, game engines, or memory-critical applications. If there’s a bottleneck, I’ll crush it faster than you can say "segmentation fault."
 
-In short, I’m on a mission to build smarter AI, more secure blockchain systems, and faster, scalable applications—all while having fun solving problems that make others scratch their heads. 🚀✨
+---
+
+## 🎯 My Mission
+
+I’m on a mission to:
+- Build **smarter AI** that solves real-world challenges.
+- Create **secure blockchain systems** that drive innovation.
+- Develop **faster, scalable applications** that users love.
+- Have fun solving problems that make others scratch their heads. 🚀✨
 
 ---
 
