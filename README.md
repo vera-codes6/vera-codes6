@@ -45,6 +45,11 @@ I’m on a mission to:
 - **CI/CD**: ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white), ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
+## By the way here are some of my statistics 🚀
+![VeraCodes's github stats](https://github-readme-stats.vercel.app/api?username=vera-codes6&show_icons=true&theme=tokyonight)
+![VeraCodes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera-codes6&theme=tokyonight&layout=compact)
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects. ✨
