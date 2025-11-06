@@ -49,7 +49,7 @@ I’m on a mission to:
 
 ## 🚀 By the way here are some of my statistics
 ![VeraCodes's github stats](https://github-readme-stats.vercel.app/api?username=vera-codes6&show_icons=true&theme=tokyonight)
-![VeraCodes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera-codes6&theme=dracula&layout=compact&langs_count=8&exclude_repo=Paperwork-webform&hide=Solidity)
+![VeraCodes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vera-codes6&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=Paperwork-webform&hide=Solidity)
 
 ---
 
